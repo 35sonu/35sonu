@@ -1,4 +1,4 @@
-![logo](https://github.com/35sonu/35sonu/blob/main/github%20banner.png)
+![logo](https://github.com/35sonu/35sonu/blob/main/Github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
